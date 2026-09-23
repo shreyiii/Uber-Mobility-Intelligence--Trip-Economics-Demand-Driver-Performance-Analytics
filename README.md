@@ -307,6 +307,4 @@ making the project representative of a practical **Data Analyst / BI Analyst wor
 
 **Shrey Srivastava**
 
-CSE — Data Science
-
 **Focus:** Data Analytics · SQL · Python · Business Intelligence · Data Science
