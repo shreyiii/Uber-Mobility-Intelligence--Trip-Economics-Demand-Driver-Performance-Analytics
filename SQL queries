@@ -1,0 +1,30 @@
+Basic Data & KPIs
+How many total trips are recorded in the dataset?
+What is the date range covered by the Uber trip data?
+What are the key overall KPIs such as total trips, total revenue, average trip value, average distance, and average duration?
+Revenue & Payment Analysis
+How does revenue and trip volume vary across different payment types?
+How do trip volume and revenue vary by pickup hour?
+How does trip volume and revenue vary across the dates represented in the dataset?
+How do trip volume, revenue, and average trip value vary by vendor?
+Trip Behavior
+How does passenger count relate to trip volume, average trip value, distance, and duration?
+How are trips distributed across different trip-distance bands, and how much revenue does each band generate?
+Location & Route Analysis
+Which pickup areas have the highest number of trips and revenue?
+Which dropoff areas have the highest number of trips and revenue?
+Which pickup-to-dropoff routes have the highest trip volume?
+How do same-area trips compare with different-area trips in terms of volume, revenue, distance, and duration?
+Advanced SQL / CTE Analysis
+Which pickup-to-dropoff routes generate the highest total revenue?
+How can pickup areas be ranked according to their total revenue?
+Which pickup hours rank highest based on revenue?
+What percentage of total revenue is contributed by each payment type?
+How does cumulative revenue build throughout the observed pickup hours?
+Business Intelligence Questions
+Which trips generate more revenue than the overall average trip value?
+Which trips have a total value of $40 or more?
+Which trips have the highest recorded tip percentages?
+How does average revenue per mile vary across payment types?
+Data Quality
+How many trips contain zero-duration, zero-distance, negative-fare, negative-tip, or negative-total anomalies?
